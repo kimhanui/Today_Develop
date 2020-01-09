@@ -16,3 +16,6 @@
 
 #### 작동사진
 ![test](https://user-images.githubusercontent.com/32615702/66967231-3299c680-f0bb-11e9-94c4-1c21959c029d.gif)
+
+#### 장점
+매우 편리하다!
